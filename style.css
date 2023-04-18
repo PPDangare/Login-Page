@@ -1,0 +1,49 @@
+body
+{
+    margin:0px; 
+    background-color:aqua;
+}
+
+h2{
+    text-align: center;
+}
+
+#main
+{
+    width:600px; 
+    height:260px; 
+    margin: 0 auto;
+    border-radius:5px; 
+    margin-top:100px;
+}
+
+#main .tb
+{
+    height:28px; 
+    width:230px; 
+    border:1px solid black; 
+    color:gray; 
+    font-weight:bold; 
+    border-radius: 5px;
+}
+
+#main .btn
+{
+    width:80px; 
+    height:32px; 
+    font-weight:bold;
+    border-radius: 2px; 
+    font-weight: 600; 
+    color: #27a465;  
+    font-size:14px; 
+}
+
+#btn{
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+}
+
+#btn:hover{
+    background-color: violet;
+}
